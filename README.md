@@ -10,3 +10,11 @@ Run `hello.py` with an optional name argument:
 python hello.py            # -> Hello, Codex!
 python hello.py Alice      # -> Hello, Alice!
 ```
+
+### Text RPG
+
+Run `text_rpg.py` for a tiny example of a text-based RPG battle:
+
+```bash
+python text_rpg.py
+```
