@@ -1,0 +1,6 @@
+site_name: HelloCodex Docs
+nav:
+  - Home: index.md
+  - About: about.md
+
+# GitHub pages deployment config will be handled by GitHub Actions

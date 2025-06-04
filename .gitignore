@@ -1,0 +1,3 @@
+# Ignore MkDocs build directory
+site/
+__pycache__/
